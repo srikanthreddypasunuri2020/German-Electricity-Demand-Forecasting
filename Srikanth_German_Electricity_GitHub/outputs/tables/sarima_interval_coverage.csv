@@ -1,0 +1,2 @@
+Model,nominal_coverage,empirical_test_coverage,average_interval_width_MW,evaluation_only
+SARIMA,0.95,0.7019230769230769,7982.377103568099,True

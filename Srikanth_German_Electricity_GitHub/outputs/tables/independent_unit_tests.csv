@@ -1,0 +1,9 @@
+test,passed
+test_complete_sarima_grid_independently,True
+test_conditional_weather_is_explicit,True
+test_metric_identity,True
+test_recursive_forecast_does_not_peek_at_future_load,True
+test_rolling_statistics_exclude_target_week,True
+test_test_index_alignment,True
+test_train_only_weekly_mase,True
+test_weekly_training_lags_are_past_only,True
