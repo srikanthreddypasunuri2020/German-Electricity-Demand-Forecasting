@@ -1,6 +1,0 @@
-Diagnostic,Observed,Criterion,Assessment,Inference,Selection_use
-Residual independence: minimum Ljung-Box p,0.000581797605861924,p > 0.01,WARNING,Residual autocorrelation remains,Training-only diagnostic; not a hidden filter for primary AIC model
-AR/MA minimum root modulus,1.0000303582876353,root modulus > 1.001,WARNING,Near-boundary roots; long-range numerical sensitivity,Training-only diagnostic
-Estimated covariance condition number,3.9086655376899117e+28,finite and <= 1e10 (heuristic threshold),WARNING,Parameter covariance may be ill-conditioned,Training-only diagnostic; threshold is descriptive
-Jarque-Bera residual normality p,1.7394030287452964e-11,p > 0.05,WARNING,Normality assumption questionable,Training-only diagnostic
-Nominal 95% predictive-interval test coverage,0.7019230769230769,0.95 nominal; test coverage descriptive (not a pass/fail test),UNDERCOVERAGE,Observed coverage minus nominal = -24.81%,Test-only evaluation; never used for selection or calibration

@@ -1,2 +1,0 @@
-artifact,preprocessing_artifact,scaler_fitted_hours,scaler_training_end,checked_recursive_hours,max_absolute_difference_MW,tolerance_atol_MW,tolerance_rtol,passed,test_target_used_for_retraining
-lstm_final_retrained.keras,lstm_standard_scaler.joblib,32856,2018-09-30 23:00:00,336,0.0,0.1,1e-06,True,False

@@ -1,5 +1,0 @@
-Model,artifact,weeks,max_absolute_difference_MW,passed,features_verified,test_target_used_for_refit
-RF Conditional,rf_conditional.joblib,104,1.4551915228366852e-11,True,True,False
-RF Operational,rf_operational.joblib,104,1.4551915228366852e-11,True,True,False
-GBR Conditional,gbr_conditional.joblib,104,0.0,True,True,False
-GBR Operational,gbr_operational.joblib,104,0.0,True,True,False

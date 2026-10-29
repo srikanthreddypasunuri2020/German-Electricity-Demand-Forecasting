@@ -1,5 +1,0 @@
-Series,ADF_statistic,ADF_p_value,KPSS_statistic,KPSS_p_value,ADF_rejects_unit_root_at_5pct,KPSS_rejects_stationarity_at_5pct
-Training weekly level,-5.003027074438027,2.188903848696545e-05,0.1498768040966247,0.1,True,False
-Training first difference,-5.570780717090841,1.4691636522176827e-06,0.04058835958700134,0.1,True,False
-Training seasonal difference (52),-5.039514074130829,1.8525361533826374e-05,0.09099202931190385,0.1,True,False
-Training first + seasonal difference,-6.727919244485712,3.352825975398372e-09,0.013846376175510563,0.1,True,False
