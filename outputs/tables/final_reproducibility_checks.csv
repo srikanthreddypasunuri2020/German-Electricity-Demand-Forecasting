@@ -1,0 +1,12 @@
+Check,Pass
+training/test chronological split,True
+complete SARIMA parameter grid,True
+common weekly prediction index,True
+hourly MASE denominator consistent,True
+all weekly predictions finite,True
+trained-weather climatology only,True
+SARIMA model fits training only,True
+four tree models reload exactly,True
+independent synthetic tests,True
+external export verification,True
+LSTM model and scaler reload,True
