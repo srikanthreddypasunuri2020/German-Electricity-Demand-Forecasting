@@ -39,6 +39,7 @@ Use a compatible Python environment and install the recorded packages:
 
 ```bash
 python -m pip install -r requirements.txt
+python -m pip install notebook
 jupyter notebook
 ```
 
