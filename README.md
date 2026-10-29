@@ -1,6 +1,6 @@
 # German Electricity Demand Forecasting
 
-Srikanth Pasunoori, student ID 24090495
+Srikanth Pasunoori, Student ID 24090495
 
 This project compares weekly electricity-demand forecasts for Germany using four simple benchmarks, SARIMA, SARIMAX, Random Forest, Gradient Boosting and an hourly LSTM. The historical data cover January 2015 to September 2020. The forecast is issued from October 2018 and evaluated on the following 104 weeks.
 
